@@ -11,12 +11,13 @@ The digit indicates how many character positions each character should be increa
 
 The modified string, without its digit prefix, should be printed to STDOUT.
 
+
 ## Usage
 
-To run this program, download it or clone it. 
+To run this project, download it or clone it. 
 
 ```bash
-git clone https://www.github.com/mujsann/cli
+git clone https://www.github.com/mujsann/CLI-masv
 ```
 
 ## Running the code
@@ -40,7 +41,7 @@ First, you need to install the dependencies.
 ```bash
 npm install
 ```
-The test file has mock data that can be changed to test the code. Call the test script to run the test.  
+The test file has mock data that can be changed to test the code. Call the test script to run the tests.  
 
 ``` bash
 npm run test
